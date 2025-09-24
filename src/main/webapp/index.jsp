@@ -9,7 +9,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">WELCOME TO JENKINS CLASS</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">WELCOME TO JENKINS CLASS Kirti</h1>
         <h1 style="color: black; font-size: 60px;" align="center">New updated Version of MYAPP</h1>
 	
 	
